@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: initsixcloud/petclinic
+  repository: kijd2kljd4023gdyadfs234/petclinic
   tag: latest
   pullPolicy: IfNotPresent
 
